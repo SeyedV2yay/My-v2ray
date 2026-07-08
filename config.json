@@ -14,5 +14,8 @@
   "history_score_weight": 10,
   "stability_weight": 40,
   "latency_weight": 30,
-  "speed_weight": 20
+  "speed_weight": 20,
+  "max_allowed_ping": 250,
+  "minimum_stability": 80,
+  "auto_replace_dead_nodes": true
 }

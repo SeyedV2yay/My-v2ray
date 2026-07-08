@@ -1,1 +1,1 @@
-#whitelist
+# Nodes that should always stay

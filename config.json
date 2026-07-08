@@ -1,10 +1,18 @@
 {
   "max_nodes": 50,
+  "backup_nodes": 20,
   "update_interval_hours": 6,
   "remove_duplicates": true,
   "remove_dead_nodes": true,
+  "prefer_stability": true,
+  "prefer_low_latency": true,
+  "prefer_favorites": true,
+  "enable_whitelist": true,
+  "enable_blacklist": true,
   "use_public_sources": true,
   "use_private_sources": true,
-  "enable_whitelist": true,
-  "enable_blacklist": true
+  "history_score_weight": 10,
+  "stability_weight": 40,
+  "latency_weight": 30,
+  "speed_weight": 20
 }

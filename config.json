@@ -1,0 +1,10 @@
+{
+  "max_nodes": 50,
+  "update_interval_hours": 6,
+  "remove_duplicates": true,
+  "remove_dead_nodes": true,
+  "use_public_sources": true,
+  "use_private_sources": true,
+  "enable_whitelist": true,
+  "enable_blacklist": true
+}

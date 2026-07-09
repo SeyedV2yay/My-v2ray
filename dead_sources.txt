@@ -1,0 +1,5 @@
+# Sources that stopped working
+# Move broken public sources here instead of deleting them
+
+# Example:
+# https://example.com/subscription 
